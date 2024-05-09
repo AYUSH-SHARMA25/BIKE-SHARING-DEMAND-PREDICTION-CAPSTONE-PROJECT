@@ -8,6 +8,8 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
 
+### You can access the dataset from this link https://drive.google.com/file/d/1p4BBi8zCNRGDM902FBX8OK6HX4ygyNdG/view?usp=sharing
+
 ### <b>Attribute Information: </b>
 
 * ### Date : year-month-day
