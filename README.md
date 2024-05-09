@@ -51,3 +51,12 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 
 ![Screenshot 2024-05-09 230224](https://github.com/AYUSH-SHARMA25/BIKE-SHARING-DEMAND-PREDICTION-CAPSTONE-PROJECT/assets/110412915/9d9c0286-526e-42de-8d07-8d87c3f924c0)
+
+
+
+# ML Models Used And Their Performance
+
+
+![Screenshot 2024-05-09 230719](https://github.com/AYUSH-SHARMA25/BIKE-SHARING-DEMAND-PREDICTION-CAPSTONE-PROJECT/assets/110412915/f6fe888b-a2d0-444c-9395-238f29731f0f)
+
+
