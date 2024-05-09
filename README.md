@@ -29,3 +29,13 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 * ### Seasons - Winter, Spring, Summer, Autumn
 * ### Holiday - Holiday/No holiday
 * ### Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+
+# Visualizations
+
+
+
+![Screenshot 2024-05-09 230031](https://github.com/AYUSH-SHARMA25/BIKE-SHARING-DEMAND-PREDICTION-CAPSTONE-PROJECT/assets/110412915/f5b24e28-a762-4c65-8e34-467671d6686e)
+![Screenshot 2024-05-09 230043](https://github.com/AYUSH-SHARMA25/BIKE-SHARING-DEMAND-PREDICTION-CAPSTONE-PROJECT/assets/110412915/a34fee54-ed81-4f95-aa99-ff516d670563)
+![Screenshot 2024-05-09 230107](https://github.com/AYUSH-SHARMA25/BIKE-SHARING-DEMAND-PREDICTION-CAPSTONE-PROJECT/assets/110412915/de731499-c1b6-49f9-b492-6818f35ba7c2)![Screenshot 2024-05-09 230224](https://github.com/AYUSH-SHARMA25/BIKE-SHARING-DEMAND-PREDICTION-CAPSTONE-PROJECT/assets/110412915/c4c15141-79d3-46e4-a81e-aad9b64983be)
+
